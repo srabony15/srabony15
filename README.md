@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srabony15
 - 👀 I’m interested in Java and C
-- 🌱 I’m currently learning Java and C
-- 💞️ I’m looking to collaborate on Project
+- 🌱 I’m currently learning Java and C,python
+- 💞️ I’m looking to collaborate on Project,webwork
 - 📫 How to reach me 
 
 <!---
