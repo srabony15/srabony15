@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @srabony15
 - 👀 I’m interested in Java and C
-- 🌱 I’m currently learning Java and C,python
-- 💞️ I’m looking to collaborate on Project,webwork
-- 📫 How to reach me 
+- 🌱 I’m currently learning Java and C, python
+- 💞️ I’m looking to collaborate on Project, web-work
+- 📫 How to reach me- zakeranoormozumdersrabony@gmail.com
 
 <!---
 srabony15/srabony15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
